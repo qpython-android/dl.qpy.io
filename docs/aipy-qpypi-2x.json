@@ -1,0 +1,102 @@
+[
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/keras-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"keras-aipy",
+        "tmodule":"keras_aipy-2.0.8-py2.7.egg",
+        "description":"Deep Learning for QPython",
+        "title":"Keras",
+        "ver":"2.0.8",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/lasagne-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"lasagne-aipy",
+        "description":"A lightweight library to build and train neural networks in Theano",
+        "title":"Lasagne",
+        "ver":"0.1",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/opencv-aipy",
+        "rdate":"2018-01-23",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"opencv-aipy",
+        "description":"Open Source Computer Vision Library for QPython",
+        "title":"opencv-aipy",
+        "ver":"2.4.10",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"scikit-learn-aipy",
+        "description":"Scikit-learn is a Python module for machine learning built on top of SciPy",
+        "title":"Scikit-learn",
+        "ver":"0.19.0",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"theano-aipy",
+        "description":"Optimizing compiler for evaluating mathematical expressions",
+        "title":"Theano",
+        "ver":"0.10.0",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/matplotlib-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"matplotlib-aipy",
+        "description":"Matplotlib strives to produce publication quality 2D graphics",
+        "title":"Matplotlib",
+        "ver":"2.1.0",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/pandas-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"pandas-aipy",
+        "description":"Powerful data structures for data analysis etc",
+        "title":"Pandas",
+        "ver":"0.20.3",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"scipy-aipy",
+        "description":"Scientific Library for Python",
+        "title":"Scipy",
+        "ver":"0.19.1",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/numpy-aipy",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"numpy-aipy",
+        "description":"Fundamental scientific computing package",
+        "title":"Numpy",
+        "ver":"1.13.1",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    }
+]

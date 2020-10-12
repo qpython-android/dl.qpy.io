@@ -1,0 +1,102 @@
+[
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/qedit4web.py",
+        "smodule":"qedit4web.py",
+        "description":"Edit with browser from your PC",
+        "title":"QEditor",
+        "ver":"0.9.0",
+        "downloads": "10,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/pip4console.py",
+        "smodule":"pip4console.py",
+        "description":"Install pure python libraries from python's pypi",
+        "title":"PIP",
+        "ver":"0.9.0",
+        "downloads": "10,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/djangoman.py",
+        "smodule":"djangoman.py",
+        "description":"Manage Django project",
+        "title":"Django Manager",
+        "ver":"0.9.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2018-03-01",
+        "link":"http://dl.qpy.io/2x/scripts/notebookman.py",
+        "smodule":"notebookman.py",
+        "description":"Start QPyNotebook Service",
+        "title":"QPyNotebook",
+        "ver":"0.9.0",
+        "downloads": "1000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2018-01-26",
+        "link":"http://dl.qpy.io/2x/scripts/ipython2.py",
+        "smodule":"ipython2.py",
+        "description":"interactive shell for Python that offers enhanced features...",
+        "title":"IPython",
+        "ver":"0.9.0",
+        "downloads": "1000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2018-02-24",
+        "link":"http://dl.qpy.io/2x/scripts/rterminal.py",
+        "smodule":"rterminal.py",
+        "description":"Running Python on server by ssh",
+        "title":"Rterminal",
+        "ver":"1.0.1",
+        "downloads": "1000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/fabricman.py",
+        "smodule":"fabricman.py",
+        "description":"Pythonic tool for remote execution and deployment",
+        "title":"Fabric Manager",
+        "ver":"0.9.0",
+        "downloads": "500+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/sqlmapman.py",
+        "smodule":"sqlmapman.py",
+        "description":"Automatic SQL injection and database takeover tool",
+        "title":"SQLMap",
+        "ver":"0.9.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/scapyman.py",
+        "smodule":"scapyman.py",
+        "description":"Python-based interactive network packet manipulation program & library",
+        "title":"Scapy",
+        "ver":"0.9.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    }
+
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/numpy-aipy2",
+        "rdate":"2018-08-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"numpy-aipy2",
+        "tmodule":"numpy_aipy2-1.14.3-py2.7.egg-info",
+        "ver":"Fundamental scientific computing package",
+        "title":"Numpy (1.14.3)",
+        "description":"ALPHA",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy2",
+        "rdate":"2018-07-25",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"scipy-aipy2",
+        "tmodule":"scipy_aipy2-1.1.0-py2.7.egg-info",
+        "ver":"Scientific Library for Python",
+        "title":"Scipy (1.1.0)",
+        "description":"ALPHA",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/pandas-aipy2",
+        "rdate":"2018-9-18",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"pandas-aipy2",
+        "tmodule":"pandas_aipy2-0.23.4-py2.7.egg-info",
+        "ver":"Powerful data structures for data analysis etc",
+        "title":"Pandas (0.23.4)",
+        "description":"ALPHA",
+        "downloads": "300+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/matplotlib-aipy2",
+        "rdate":"2018-9-19",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"matplotlib-aipy2",
+        "tmodule":"matplotlib_aipy2-2.2.3-py2.7.egg-info",
+        "ver":"Matplotlib strives to produce publication quality 2D graphics",
+        "title":"Matplotlib (2.2.3)",
+        "description":"2.2.3",
+        "downloads": "200+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"theano-aipy2",
+        "tmodule":"theano_aipy2-1.0.3-py2.7.egg-info",
+        "ver":"Optimizing compiler for evaluating mathematical expressions",
+        "title":"Theano (1.0.3)",
+        "description":"ALPHA",
+        "downloads": "200+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/keras-aipy2",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"keras-aipy2",
+        "tmodule":"keras_aipy2-2.2.2-py2.7.egg-info",
+        "ver":"The Python Deep Learning library",
+        "title":"Keras (2.2.2)",
+        "description":"ALPHA",
+        "downloads": "200+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy2",
+        "rdate":"2018-9-30",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"scikit-learn-aipy2",
+        "tmodule":"scikit_learn_aipy2-0.20.0-py2.7.egg-info",
+        "ver":"Scikit-learn is a Python module for machine learning",
+        "title":"Scikit-learn",
+        "description":"BETA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    }
+]

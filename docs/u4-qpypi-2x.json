@@ -1,0 +1,168 @@
+[
+    {
+        "src":"https://www.djangoproject.com/",
+        "rdate":"2018-01-30",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"django-qpython",
+        "description":"Django makes it easier to build better Web apps",
+        "title":"Django",
+        "ver":"1.11.9",
+        "downloads": "10,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://kivy.org",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"kivy-u4-qpython",
+        "description":"GUI solution which support multi-touch apps",
+        "title":"Kivy",
+        "ver":"1.10.0",
+        "downloads": "10,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://kivy.org",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"pyjnius-u4-qpython",
+        "description":"Access Java classes from Python",
+        "title":"Pyjnius",
+        "ver":"1.1.2",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://kivy.org",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"android-u4-qpython",
+        "description":"Access Android Java classes from Python",
+        "title":"Android",
+        "ver":"0.9",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/ipython-qpython",
+        "rdate":"2018-01-28",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"ipython-qpython",
+        "description":"Productive Interactive Computing",
+        "title":"IPython",
+        "ver":"5.5.0",
+        "downloads": "6,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/paramiko-u4-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"paramiko-u4-qpython",
+        "description":"A library for making SSH2 connections",
+        "title":"Paramiko",
+        "ver":"1.15.2",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/PIL-u4-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"PIL-u4-qpython",
+        "tmodule":"PIL_u4_qpython-1.1.7-py2.7.egg",
+        "description":"Image processing library",
+        "title":"PIL",
+        "ver":"1.1.7",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/tornado-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"tornado-qpython",
+        "description":"An asynchronous networking web library",
+        "title":"Tornado",
+        "ver":"4.5.1",
+        "downloads": "10,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/mysql-connector-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"mysql-connector-qpython",
+        "description":"MySQL driver written in pure Python",
+        "title":"Mysql Connector",
+        "ver":"1.15.2",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/lxml-u4-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"lxml-u4-qpython",
+        "description":"A Pythonic binding for the libxml2 and libxslt",
+        "title":"lxml",
+        "ver":"2.3.6",
+        "downloads": "2,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/protobuf-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"protobuf-qpython",
+        "description":"Protocol Buffers are Google's data interchange format",
+        "title":"Protobuf",
+        "ver":"3.3.0",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/fabric-u4-qpython",
+        "rdate":"2017-07-26",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"fabric-u4-qpython",
+        "description":"Pythonic tool for remote execution and deployment",
+        "title":"Fabric",
+        "ver":"1.13.2",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/google-api-qpython-client",
+        "rdate":"2017-07-26",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"google-api-qpython-client",
+        "description":"The Google API Client for QPython",
+        "title":"Google-api-qpython-client",
+        "ver":"0.3.4",
+        "downloads": "300+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/kivymd-u4-qpython",
+        "rdate":"2017-09-12",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"kivymd-u4-qpython",
+        "description":"Set of widgets for Kivy inspired by Google's Material Design",
+        "title":"KivyMD",
+        "ver":"0.1.2",
+        "downloads": "300+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/mock-qpython",
+        "rdate":"2017-10-10",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"mock-qpython",
+        "description":"Mock is a library for testing in Python",
+        "title":"Mock",
+        "ver":"2.0.0",
+        "downloads": "300+",
+        "cat":"qpypi"
+    }
+]

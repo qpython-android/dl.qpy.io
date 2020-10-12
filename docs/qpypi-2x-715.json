@@ -1,0 +1,92 @@
+[
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/tornado-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"tornado-qpython",
+        "tmodule":"tornado_qpython-4.5.1-py2.7.egg-info",
+        "ver":"An asynchronous networking web library",
+        "title":"Tornado",
+        "description":"4.5.1",
+        "downloads": "10,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://srinathh.github.io/opensource/fullscreenwrapper/",
+        "rdate":"2018-09-11",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"qsl4ahelper-qpython2",
+        "tmodule":"qsl4ahelper_qpython2-0.6.1-py2.7.egg-info",
+        "ver":"SL4A App APIs wrapper library (Like Fullscreenwrapper2 etc)",
+        "title":"QSL4A Helper",
+        "description":"0.5.1",
+        "downloads": "25,00+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/pillow-qpython2",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"pillow-qpython2",
+        "tmodule":"pillow_qpython2-5.2.0-py2.7.egg-info",
+        "ver":"Image processing library",
+        "title":"Pillow (5.2.0)",
+        "description":"BETA",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/twisted-qpython2",
+        "rdate":"2018-09-22",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"twisted-qpython2",
+        "tmodule":"twisted_qpython2-18.7.0-py2.7.egg-info",
+        "ver":"An asynchronous networking framework",
+        "title":"Twisted (18.7.0)",
+        "description":"BETA",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/lxml-qpython2",
+        "rdate":"2018-09-24",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"lxml-qpython2",
+        "tmodule":"lxml_qpython2-4.2.5-py2.7.egg-info",
+        "ver":"A Pythonic binding for the libxml2 and libxslt",
+        "title":"lxml (4.2.5)",
+        "description":"BETA",
+        "downloads": "300+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/scrapy-qpython2",
+        "rdate":"2018-09-27",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"scrapy-qpython2",
+        "tmodule":"scrapy_qpython2-1.5.1-py2.7.egg-info",
+        "ver":"A Fast and Powerful Scraping and Web Crawling Framework",
+        "title":"Scrapy (1.5.1)",
+        "description":"BETA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/dulwich-qpython2",
+        "rdate":"2018-09-29",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"dulwich-qpython2",
+        "tmodule":"dulwich_qpython2-0.19.6-py2.7.egg-info",
+        "ver":"A Python GIT client and library ",
+        "title":"Dulwich (0.19.6)",
+        "description":"BETA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/pyOpenSSL-qpython2",
+        "rdate":"2018-10-8",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"pyOpenSSL-qpython2",
+        "tmodule":"pyOpenSSL_qpython2-18.0.0-py2.7.egg-info",
+        "ver":"A Python wrapper around the OpenSSL library",
+        "title":"pyOpenSSL (18.0.0)",
+        "description":"BETA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "src":"http://qpython.org",
+        "rdate":"2018-01-26",
+        "link":"http://dl.qpy.io/3x/scripts/ipython3.py",
+        "smodule":"ipython3.py",
+        "description":"2018/6/1 updated",
+        "title":"IPython (PY3.6.4+)",
+        "ver":"0.9.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/3x/scripts/qedit4web.py",
+        "smodule":"qedit4web.py",
+        "description":"2018/7/25 updated",
+        "title":"QEditor",
+        "ver":"0.9.0",
+        "downloads": "9,000+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/djangoman.py",
+        "smodule":"djangoman.py",
+        "description":"2018/6/1 updated",
+        "title":"Django Manager",
+        "ver":"0.9.0",
+        "downloads": "1,000+",
+        "cat":"script"
+    }
+]
