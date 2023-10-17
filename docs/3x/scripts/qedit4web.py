@@ -24,7 +24,7 @@ import json
 
 DST_S = 'http://qpy.io'
 
-PROJ_ROOT = '/sdcard/qpython'
+PROJ_ROOT = '/storage/emulated/0/Android/data/org.qpython.qpy/files'
 ROOT = PROJ_ROOT
 
 # ASSETS = "/assets/"
